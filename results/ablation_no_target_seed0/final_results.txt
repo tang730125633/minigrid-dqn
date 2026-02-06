@@ -1,0 +1,6 @@
+experiment: ablation_no_target_seed0
+success_rate: 0.0000
+avg_reward: 0.0000
+total_episodes: 3000
+total_steps: 562581
+training_time: 911.7s

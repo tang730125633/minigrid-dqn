@@ -1,0 +1,6 @@
+experiment: reward_shaping_seed1
+success_rate: 1.0000
+avg_reward: 0.9613
+total_episodes: 3000
+total_steps: 88373
+training_time: 146.0s

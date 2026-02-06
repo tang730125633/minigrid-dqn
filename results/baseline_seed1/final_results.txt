@@ -1,0 +1,6 @@
+experiment: baseline_seed1
+success_rate: 1.0000
+avg_reward: 0.9543
+total_episodes: 3000
+total_steps: 307122
+training_time: 485.6s
