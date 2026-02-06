@@ -1,0 +1,6 @@
+experiment: ablation_gamma0.999_seed0
+success_rate: 1.0000
+avg_reward: 0.9613
+total_episodes: 3000
+total_steps: 86787
+training_time: 121.0s
