@@ -638,7 +638,10 @@ with feat_col3:
 # ==================== 实验结果区 ====================
 st.markdown("<div style='padding: 3rem 0;'></div>", unsafe_allow_html=True)
 
-if 'view_results' in st.session_state and st.session_state.view_results:
+# 强制开启结果显示，无视按钮状态
+view_results = True 
+
+if view_results:
     st.markdown("""
     <div id="results">
         <div class="section-title">实验结果分析</div>
